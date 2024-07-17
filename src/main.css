@@ -1,6 +1,6 @@
 .board{
-    margin-left: 100px;
-    margin-top: 10px;
+    width: 50%;
+    margin: 0 auto;
 }
 
 .buttonBox{
